@@ -3,4 +3,4 @@ The dataset is taken from kaggle and data is explored to generate insights about
 
 Van't kruijs opening is preferable for black to win the game.
 
-Work in progress!!.
+Work in progress!!..
